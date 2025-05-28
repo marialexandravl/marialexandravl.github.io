@@ -13,7 +13,7 @@ I am especially interested in Pure Mathematics and Data Analytics. I have hands-
 
 ## Projects 
 <body>
-  ...
-  <a href="Food Nutrition Project.pdf" target="_blank">View My Food Nutrition Data Project PDF</a>
-  ...
+  
+  <a href="Food Nutrition Project.pdf" target="_blank">Food Nutrition Data Project</a>
+  
 </body>
