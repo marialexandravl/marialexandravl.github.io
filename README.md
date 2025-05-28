@@ -10,3 +10,10 @@ I am especially interested in Pure Mathematics and Data Analytics. I have hands-
 - SQL
 - Microsoft Office: Excel, Word, Powerpoint
 - Google Sheets
+
+## Projects 
+<body>
+  ...
+  <a href="Food Nutrition Project.pdf" target="_blank">View My Food Nutrition Data Project PDF</a>
+  ...
+</body>
